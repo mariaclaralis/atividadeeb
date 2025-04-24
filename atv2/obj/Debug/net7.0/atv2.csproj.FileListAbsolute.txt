@@ -1,0 +1,14 @@
+C:\Users\maria55018576\Documents\lista 2\lista2\atidedadeec\atv2\bin\Debug\net7.0\atv2.exe
+C:\Users\maria55018576\Documents\lista 2\lista2\atidedadeec\atv2\bin\Debug\net7.0\atv2.deps.json
+C:\Users\maria55018576\Documents\lista 2\lista2\atidedadeec\atv2\bin\Debug\net7.0\atv2.runtimeconfig.json
+C:\Users\maria55018576\Documents\lista 2\lista2\atidedadeec\atv2\bin\Debug\net7.0\atv2.dll
+C:\Users\maria55018576\Documents\lista 2\lista2\atidedadeec\atv2\bin\Debug\net7.0\atv2.pdb
+C:\Users\maria55018576\Documents\lista 2\lista2\atidedadeec\atv2\obj\Debug\net7.0\atv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria55018576\Documents\lista 2\lista2\atidedadeec\atv2\obj\Debug\net7.0\atv2.AssemblyInfoInputs.cache
+C:\Users\maria55018576\Documents\lista 2\lista2\atidedadeec\atv2\obj\Debug\net7.0\atv2.AssemblyInfo.cs
+C:\Users\maria55018576\Documents\lista 2\lista2\atidedadeec\atv2\obj\Debug\net7.0\atv2.csproj.CoreCompileInputs.cache
+C:\Users\maria55018576\Documents\lista 2\lista2\atidedadeec\atv2\obj\Debug\net7.0\atv2.dll
+C:\Users\maria55018576\Documents\lista 2\lista2\atidedadeec\atv2\obj\Debug\net7.0\refint\atv2.dll
+C:\Users\maria55018576\Documents\lista 2\lista2\atidedadeec\atv2\obj\Debug\net7.0\atv2.pdb
+C:\Users\maria55018576\Documents\lista 2\lista2\atidedadeec\atv2\obj\Debug\net7.0\atv2.genruntimeconfig.cache
+C:\Users\maria55018576\Documents\lista 2\lista2\atidedadeec\atv2\obj\Debug\net7.0\ref\atv2.dll
