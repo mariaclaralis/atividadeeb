@@ -1,0 +1,14 @@
+C:\Users\maria55018576\Documents\lista 2\lista2\atidedadeec\ativi5\obj\Debug\net7.0\ativi5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria55018576\Documents\lista 2\lista2\atidedadeec\ativi5\obj\Debug\net7.0\ativi5.AssemblyInfoInputs.cache
+C:\Users\maria55018576\Documents\lista 2\lista2\atidedadeec\ativi5\obj\Debug\net7.0\ativi5.AssemblyInfo.cs
+C:\Users\maria55018576\Documents\lista 2\lista2\atidedadeec\ativi5\obj\Debug\net7.0\ativi5.csproj.CoreCompileInputs.cache
+C:\Users\maria55018576\Documents\lista 2\lista2\atidedadeec\ativi5\bin\Debug\net7.0\ativi5.exe
+C:\Users\maria55018576\Documents\lista 2\lista2\atidedadeec\ativi5\bin\Debug\net7.0\ativi5.deps.json
+C:\Users\maria55018576\Documents\lista 2\lista2\atidedadeec\ativi5\bin\Debug\net7.0\ativi5.runtimeconfig.json
+C:\Users\maria55018576\Documents\lista 2\lista2\atidedadeec\ativi5\bin\Debug\net7.0\ativi5.dll
+C:\Users\maria55018576\Documents\lista 2\lista2\atidedadeec\ativi5\bin\Debug\net7.0\ativi5.pdb
+C:\Users\maria55018576\Documents\lista 2\lista2\atidedadeec\ativi5\obj\Debug\net7.0\ativi5.dll
+C:\Users\maria55018576\Documents\lista 2\lista2\atidedadeec\ativi5\obj\Debug\net7.0\refint\ativi5.dll
+C:\Users\maria55018576\Documents\lista 2\lista2\atidedadeec\ativi5\obj\Debug\net7.0\ativi5.pdb
+C:\Users\maria55018576\Documents\lista 2\lista2\atidedadeec\ativi5\obj\Debug\net7.0\ativi5.genruntimeconfig.cache
+C:\Users\maria55018576\Documents\lista 2\lista2\atidedadeec\ativi5\obj\Debug\net7.0\ref\ativi5.dll
